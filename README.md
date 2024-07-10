@@ -7,7 +7,7 @@ Use Echarts in laravel-admin
 ## Installation
 
 ```bash
-composer require cyd622/laravel-admin-ext-echarts
+composer require wangjiazheng/laravel-admin-ext-echarts
 
 php artisan vendor:publish --tag=echarts
 ```
